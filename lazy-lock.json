@@ -2,7 +2,7 @@
   "LazyVim": { "branch": "main", "commit": "3f034d0a7f58031123300309f2efd3bb0356ee21" },
   "R.nvim": { "branch": "main", "commit": "a3a9c310d39b4d0159cd2b96ad0d82d5598d50ea" },
   "SchemaStore.nvim": { "branch": "main", "commit": "236438da47cafc39b15d2017a229a6613c581055" },
-  "blink.cmp": { "branch": "main", "commit": "4607923f60029f8cb28e6950a078f93fd33e1288" },
+  "blink.cmp": { "branch": "main", "commit": "485c03400608cb6534bbf84da8c1c471fc4808c0" },
   "bufferline.nvim": { "branch": "main", "commit": "655133c3b4c3e5e05ec549b9f8cc2894ac6f51b3" },
   "catppuccin": { "branch": "main", "commit": "5b5e3aef9ad7af84f463d17b5479f06b87d5c429" },
   "clangd_extensions.nvim": { "branch": "main", "commit": "db28f29be928d18cbfb86fbfb9f83f584f658feb" },
@@ -48,3 +48,4 @@
   "which-key.nvim": { "branch": "main", "commit": "370ec46f710e058c9c1646273e6b225acf47cbed" },
   "yanky.nvim": { "branch": "main", "commit": "a21a0b4f593e1fb17b17882f1ab3a3c1b943b831" }
 }
+
